@@ -9,6 +9,8 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println("Salnitri bel mandrillone");
+        System.out.println();
+        System.out.println();
+        
     }
 }
